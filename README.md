@@ -190,10 +190,12 @@ Replace the URL above with the official workshop repository.
 
 You should see files such as:
 
-`README.md`
-`modules/`
-`data/`
-`notebooks/`
+```
+README.md
+modules/
+data/
+notebooks/
+```
 
 [IMAGE]
 
