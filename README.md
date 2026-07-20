@@ -90,7 +90,7 @@ Terminal
 
 **Run:**
 
-python --version
+`python --version`
 
 or 
 
