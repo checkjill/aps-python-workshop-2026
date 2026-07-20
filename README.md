@@ -215,7 +215,7 @@ notebooks/
 
 [IMAGE]
 
-**Step 6 - Open the Workshop Folder in VS Code**
+## Step 6 - Open the Workshop Folder in VS Code
 
 Open VS Code.
 
@@ -227,7 +227,7 @@ Select the repository you just downloaded.
 
 [IMAGE]
 
-**Step 7 - Select the Python Interpreter**
+## Step 7 - Select the Python Interpreter
 
 Inside VS Code:
 
