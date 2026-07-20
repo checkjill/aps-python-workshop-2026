@@ -344,7 +344,7 @@ Before attending the workshop, verify that all items below are complete:
 - Test Script Executed
 - Python Packages installed
 
-## Need help?
+## Do you need help?
 
 If you encounter any issues, please contact the workshop organizers before the event or bring your issues to the next virtual meeting.
 
