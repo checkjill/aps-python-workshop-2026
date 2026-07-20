@@ -39,7 +39,7 @@ and download the version for your operating system:
 - macOS
 - Linux
 
-**Install VS Code** <img width="512" height="512" alt="programming" src="https://github.com/user-attachments/assets/9955b01d-b25a-402c-a1d8-a7cb0f608d9e" />
+**Install VS Code** <img width="30" height="30" alt="programming" src="https://github.com/user-attachments/assets/9955b01d-b25a-402c-a1d8-a7cb0f608d9e" />
 
 Follow the installation wizard using the default settings.
 After installation, open VS Code.
