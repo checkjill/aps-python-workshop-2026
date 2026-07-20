@@ -90,15 +90,15 @@ Terminal
 
 **Run:**
 
-`python --version`
+```python --version```
 
 or 
 
-`python3 --version`
+```python3 --version```
 
 **Expected output**
 
-`Python 3.x.x`
+```Python 3.x.x```
 
 [IMAGE]
 
@@ -146,11 +146,11 @@ Use the default installation settings.
 
 **Open a terminal and run:**
 
-`git --version`
+```git --version```
 
 **Expected output**
 
-`git version X.X.X`
+```git version X.X.X```
 
 [IMAGE]
 
@@ -174,17 +174,17 @@ Navigate to the folder where you want the workshop materials stored.
 
 **Example**
 
-`cd Documents`
+```cd Documents```
 
 **Clone the repository:**
 
-`git clone https://github.com/WORKSHOP-ORGANIZATION/WORKSHOP-REPOSITORY.git`
+```git clone https://github.com/WORKSHOP-ORGANIZATION/WORKSHOP-REPOSITORY.git```
 
 Replace the URL above with the official workshop repository.
 
 **Move into the Repository**
 
-`cd WORKSHOP-REPOSITORY`
+```cd WORKSHOP-REPOSITORY```
 
 **Verify**
 
@@ -217,7 +217,7 @@ Inside VS Code:
 
 **Press:**
 
-`Ctrl + Shift + P`
+```Ctrl + Shift + P```
 
 (or Command + Shift + P on macOS)
 
@@ -233,16 +233,18 @@ Select the installed Python version.
 
 Create a new file called:
 
-`test_setup.py`
+```test_setup.py```
 
 **Copy and paste:**
 
 print("Hello APS Workshop!")
 
-`import sys`
+```
+import sys
 
-`print("Python version:")`
-`print(sys.version)`
+print("Python version:")
+print(sys.version)
+```
 
 Save this file.
 
@@ -252,14 +254,16 @@ Open a terminal inside VS Code.
 
 **Run:**
 
-`python test_setup.py`
+```python test_setup.py```
 
 **Expected output:**
 
-`Hello APS Workshop!`
+```Hello APS Workshop!```
 
-`Python version:
-3.x.x`
+```
+Python version:
+3.x.x
+```
 
 [IMAGE]
 
@@ -267,7 +271,7 @@ Open a terminal inside VS Code.
 
 **Run:**
 
-`pip install pandas numpy matplotlib`
+```pip install pandas numpy matplotlib```
 
 **Verify**
 
@@ -277,19 +281,21 @@ python
 
 and run:
 
-`import pandas`
-`import numpy`
-`import matplotlib`
+```
+import pandas
+import numpy
+import matplotlib
+```
 
-`print("Packages installed successfully!")`
+```print("Packages installed successfully!")```
 
 Expected output:
 
-`Packages installed successfully!`
+```Packages installed successfully!```
 
 Exit Python:
 
-`exit()`
+```exit()```
 
 [IMAGE]
 
