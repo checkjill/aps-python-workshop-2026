@@ -21,7 +21,7 @@ By the end of this tutorial you will have:
 - Python extension installed in VS Code
 - Git installed
 - Workshop repository downloaded
-- Verified that everthing works corretly
+- Verified that everything works corretly
 
 ## Step 1 - Install Visual Code Code (VS Code)
 
