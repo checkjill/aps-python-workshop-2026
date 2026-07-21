@@ -72,21 +72,15 @@ You need to click on your operating system (Windows, macOS, or Linux) inside the
 
 **For Windows:**
 
-
 <img width="1569" height="905" alt="windows" src="https://github.com/user-attachments/assets/b0310e07-e0e5-497d-8e34-a2eb1dc8f448" />
-
 
 **For Linux:**
 
-
 <img width="1584" height="905" alt="Linux" src="https://github.com/user-attachments/assets/174f9cfa-eab8-4346-95b9-fae852bb3035" />
-
 
 **For MacOS:**
 
-
 <img width="1569" height="905" alt="macOS" src="https://github.com/user-attachments/assets/c4a88c10-429a-4b46-81cd-170abd422815" />
-
 
 **Windows Users (Important)**
 
