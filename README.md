@@ -66,6 +66,12 @@ https://www.python.org/downloads
 
 Download the latest stable Python release.
 
+<img width="1877" height="798" alt="image" src="https://github.com/user-attachments/assets/29a1e25a-e199-4726-ad96-8dfb9ef68250" />
+
+**For Windows**
+
+<img width="1569" height="896" alt="image" src="https://github.com/user-attachments/assets/1736040e-711e-4e15-87b1-7bc53c62f768" />
+
 **Windows Users (Important)**
 
 During installation, make sure to check:
