@@ -90,7 +90,7 @@ During installation, make sure to check:
 
 Before clicking "install Now".
 
-[IMAGE]
+<img width="649" height="408" alt="install_python" src="https://github.com/user-attachments/assets/1b3b84ff-dc74-4f95-92b5-dd9be535d575" />
 
 **Verify installation**
 
