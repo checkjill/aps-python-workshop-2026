@@ -104,6 +104,8 @@ macOS/Linux:
 
 Terminal
 
+<img width="1105" height="619" alt="prompt" src="https://github.com/user-attachments/assets/fa53acc5-7f5c-4196-bc3a-430aad3bd08c" />
+
 **Run:**
 
 ```
