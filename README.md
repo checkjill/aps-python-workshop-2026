@@ -49,6 +49,7 @@ After installation, open VS Code.
 You should see a screen similat to this:
 
 <img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/086bdceb-fa5c-4809-bf7f-544ceb683f48" />
+<img width="1835" height="905" alt="python_download" src="https://github.com/user-attachments/assets/23756eba-1e45-4eff-b16d-7f9c5555ea8e" />
 
 Screenshot showing:
 - VS Code opened for the first time
