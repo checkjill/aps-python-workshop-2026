@@ -94,15 +94,13 @@ Before clicking "install Now".
 
 **Verify installation**
 
-Open:
-
 Windows:
 
-Commad Prompt
+Open the `Commad Prompt`
 
 macOS/Linux:
 
-Terminal
+Open the `Terminal`
 
 **Run:**
 
