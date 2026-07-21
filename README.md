@@ -159,6 +159,10 @@ https://git-scm.com/downloads
 
 Download the appropriate version for your operating system.
 
+**For Windows:**
+
+<img width="1149" height="932" alt="git_windows" src="https://github.com/user-attachments/assets/d71b348a-dd70-4553-8772-2ea81751fc7a" />
+
 **Install Git**
 
 Use the default installation settings.
