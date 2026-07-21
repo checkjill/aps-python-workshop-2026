@@ -135,6 +135,8 @@ Python
 
 Install the extension published by Microsft.
 
+<img width="1918" height="1148" alt="python_extension" src="https://github.com/user-attachments/assets/cd69e0eb-4c62-43fd-92ff-757e6f09e6ee" />
+
 **Verify installation**
 
 After installation, you should see:
