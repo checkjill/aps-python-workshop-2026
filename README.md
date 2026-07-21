@@ -66,6 +66,8 @@ https://www.python.org/downloads
 
 Download the latest stable Python release.
 
+You need to click on your operating system (Windows, macOS, or Linux) inside the red box indicated by the arrow.
+
 <img width="1835" height="905" alt="python_download" src="https://github.com/user-attachments/assets/23756eba-1e45-4eff-b16d-7f9c5555ea8e" />
 
 **For Windows:**
