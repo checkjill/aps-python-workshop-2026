@@ -125,7 +125,9 @@ Python 3.14.6
 
 Open VS Code.
 
-Click the Extensions icon on the left sidebar.
+Click the Extensions icon on the left sidebar indicated by the arrow.
+
+<img width="1885" height="546" alt="extensions" src="https://github.com/user-attachments/assets/5ef09a5f-d6bf-4c89-b29a-4cf4c974fa3f" />
 
 **Search for:**
 
