@@ -143,13 +143,9 @@ Install the extension published by Microsft as indicated by the second red box o
 
 After installation, you should see:
 
-Python (Microsoft)
+`Python (Microsoft)` with the label `Installed`
 
-with the label:
-
-Installed
-
-[IMAGE]
+<img width="1915" height="1139" alt="python_installed_extension" src="https://github.com/user-attachments/assets/3971792e-84ca-4e76-9df7-3992ac735404" />
 
 ## Step 4 - Install Git
 
