@@ -70,7 +70,7 @@ Download the latest stable Python release.
 
 **For Windows**
 
-<img width="1569" height="896" alt="image" src="https://github.com/user-attachments/assets/1736040e-711e-4e15-87b1-7bc53c62f768" />
+<img width="1569" height="905" alt="windows" src="https://github.com/user-attachments/assets/b0310e07-e0e5-497d-8e34-a2eb1dc8f448" />
 
 **Windows Users (Important)**
 
