@@ -131,9 +131,11 @@ Click the Extensions icon on the left sidebar indicated by the arrow.
 
 **Search for:**
 
-Python
+Python writing on the left sidebar as indicated by the first red box above.
 
-Install the extension published by Microsft.
+and
+
+Install the extension published by Microsft as indicated by the second red box on the left.
 
 <img width="1918" height="1148" alt="python_extension" src="https://github.com/user-attachments/assets/cd69e0eb-4c62-43fd-92ff-757e6f09e6ee" />
 
