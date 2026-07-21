@@ -104,8 +104,6 @@ macOS/Linux:
 
 Terminal
 
-<img width="1105" height="619" alt="prompt" src="https://github.com/user-attachments/assets/fa53acc5-7f5c-4196-bc3a-430aad3bd08c" />
-
 **Run:**
 
 ```
@@ -121,10 +119,9 @@ python3 --version
 **Expected output**
 
 ```
-Python 3.x.x
+Python 3.14.6
 ```
-
-[IMAGE]
+<img width="1105" height="619" alt="prompt" src="https://github.com/user-attachments/assets/fa53acc5-7f5c-4196-bc3a-430aad3bd08c" />
 
 ## Step 3 - Install the Python Extension in VS Code
 
