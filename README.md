@@ -143,7 +143,7 @@ Install the extension published by Microsft as indicated by the second red box o
 
 After installation, you should see:
 
-`Python (Microsoft)` with the label `Installed`
+`Python (Microsoft)` with the label `Installed` as indicated by the red box on the left.
 
 <img width="1915" height="1139" alt="python_installed_extension" src="https://github.com/user-attachments/assets/3971792e-84ca-4e76-9df7-3992ac735404" />
 
