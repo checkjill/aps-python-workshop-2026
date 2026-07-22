@@ -175,6 +175,8 @@ Download the appropriate version for your operating system.
 
 Use the default installation settings.
 
+<img width="592" height="460" alt="git_install" src="https://github.com/user-attachments/assets/1cc243f1-8578-4665-bad4-35599bded24b" />
+
 **Verify installation**
 
 **Open a terminal and run:**
