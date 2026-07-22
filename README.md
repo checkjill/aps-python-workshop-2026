@@ -190,8 +190,7 @@ git --version
 ```
 git version 2.55.0.windows.3
 ```
-
-[IMAGE]
+<img width="1108" height="614" alt="git_prompt" src="https://github.com/user-attachments/assets/105c76d5-f63e-4439-af2d-99917e016b31" />
 
 ## Step 5 - Clone the Workshop Repository
 
