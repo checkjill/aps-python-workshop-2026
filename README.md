@@ -179,7 +179,7 @@ Use the default installation settings.
 
 **Verify installation**
 
-**Open a terminal and run:**
+**Open a `Terminal` or `Command Prompt` and run:**
 
 ```
 git --version
