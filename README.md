@@ -23,7 +23,7 @@ By the end of this tutorial you will have:
 - Workshop repository downloaded
 - Verified that everything works corretly
 
-## Step 1 - Install Visual Code Code (VS Code)
+## Step 1 - Install Visual Studio Code (VS Code)
 
 Visual Studio Code (VS Code) will be our integrated develoment environment (IDE) during the workshop.
 
