@@ -219,7 +219,7 @@ cd Documents
 **Clone the repository:**
 
 ```
-git clone https://github.com/WORKSHOP-ORGANIZATION/WORKSHOP-REPOSITORY.git
+git clone https://github.com/checkjill/aps-python-workshop-2026.git
 ```
 
 Replace the URL above with the official workshop repository.
@@ -227,7 +227,7 @@ Replace the URL above with the official workshop repository.
 **Move into the Repository**
 
 ```
-cd WORKSHOP-REPOSITORY
+cd aps-python-workshop-2026.git
 ```
 
 **Verify**
