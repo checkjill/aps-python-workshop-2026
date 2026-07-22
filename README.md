@@ -163,6 +163,14 @@ Download the appropriate version for your operating system.
 
 <img width="1149" height="932" alt="git_windows" src="https://github.com/user-attachments/assets/d71b348a-dd70-4553-8772-2ea81751fc7a" />
 
+**For macOS:**
+
+<img width="1015" height="837" alt="git_macOS" src="https://github.com/user-attachments/assets/e38c0391-93fa-40f1-bb28-5aea3f2a9dc8" />
+
+**For Linux:**
+
+<img width="971" height="1275" alt="git_linux" src="https://github.com/user-attachments/assets/51d1de8c-2774-4d96-b47d-ac5c902448e6" />
+
 **Install Git**
 
 Use the default installation settings.
