@@ -188,7 +188,7 @@ git --version
 **Expected output**
 
 ```
-git version X.X.X
+git version 2.55.0.windows.3
 ```
 
 [IMAGE]
