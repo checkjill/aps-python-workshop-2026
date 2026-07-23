@@ -25,7 +25,7 @@ By the end of this tutorial you will have:
 
 ## Step 1 - Install Visual Studio Code (VS Code)
 
-First, we need to install the Visual Studio Code (VS Code) will be our integrated develoment environment (IDE) during the workshop.
+First, we need to install `Visual Studio Code (VS Code)`, which will be our integrated development environment (IDE) during the workshop.
 
 **Download VS Code**
 
