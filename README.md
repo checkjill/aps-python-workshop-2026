@@ -262,7 +262,7 @@ Select the installed Python version
 
 ## Step 8 - Run a Test Script
 
-First, you need to install the `Jupyter` extension on your VS Code. For this, you need to search for `Jupyter` on the extensions section like that you made to install the python extension on step 3. Then, you can select the first one and click on `install` like showed on the picture below.
+First, you need to install the Jupyter extension to run the test script in VS Code. To do this, search for `Jupyter` in the extensions section, just as you did to install the Python extension in step 3. Then, select the first option and click `Install`, as shown in the image below.
 
 <img width="1919" height="1148" alt="jupyter" src="https://github.com/user-attachments/assets/c438295e-56b6-46de-8e6b-fd25d3774889" />
 
