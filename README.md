@@ -220,25 +220,6 @@ Next, after those two processes, you will have a cloned repository on your compu
 
 <img width="1919" height="194" alt="git_documents" src="https://github.com/user-attachments/assets/20111326-4c4c-4443-bf4c-060de8b5762e" />
 
-**Move into the Repository**
-
-```
-cd aps-python-workshop-2026.git
-```
-
-**Verify**
-
-You should see files such as:
-
-```
-README.md
-modules/
-data/
-notebooks/
-```
-
-[IMAGE]
-
 ## Step 6 - Open the Workshop Folder in VS Code
 
 Open VS Code.
