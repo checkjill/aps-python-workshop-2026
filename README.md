@@ -272,7 +272,7 @@ Create .venv...
 Select the Kernel (.venv/python 3.14...)...
 Run the script..
 
-## Step 9 - Test Package Installation
+## Step 9 - Package Installation
 
 **Run:**
 
@@ -282,33 +282,6 @@ pip install pandas numpy matplotlib
 
 **Verify**
 
-Open Python:
-
-python
-
-and run:
-
-```
-import pandas
-import numpy
-import matplotlib
-```
-
-```
-print("Packages installed successfully!")
-```
-
-Expected output:
-
-```
-Packages installed successfully!
-```
-
-Exit Python:
-
-```
-exit()
-```
 
 [IMAGE]
 
