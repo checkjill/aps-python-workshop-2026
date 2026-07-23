@@ -25,7 +25,7 @@ By the end of this tutorial you will have:
 
 ## Step 1 - Install Visual Studio Code (VS Code)
 
-Visual Studio Code (VS Code) will be our integrated develoment environment (IDE) during the workshop.
+First, we need to install the Visual Studio Code (VS Code) will be our integrated develoment environment (IDE) during the workshop.
 
 **Download VS Code**
 
@@ -55,6 +55,8 @@ Screenshot showing:
 - Welcome page
 
 ## Step 2 - Install Python
+
+After install our interface IDE, we will install the programming language.
 
 Python is the programming language used throughout the workshop.
 
