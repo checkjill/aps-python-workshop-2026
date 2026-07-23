@@ -250,15 +250,15 @@ Ctrl + Shift + P
 
 (or Command + Shift + P on macOS)
 
-<img width="1911" height="1150" alt="python_interpreter" src="https://github.com/user-attachments/assets/66178dba-e9c8-4443-89b7-85ea3622fc0b" />
-
 **Search:**
 
 Python: Select Interpreter
 
-Select the installed Python version.
+<img width="1911" height="1150" alt="python_interpreter" src="https://github.com/user-attachments/assets/66178dba-e9c8-4443-89b7-85ea3622fc0b" />
 
-[IMAGE]
+Select the installed Python version
+
+<img width="1917" height="1148" alt="python_version_inter" src="https://github.com/user-attachments/assets/234335b8-c06c-4aee-b650-c5191817c61a" />
 
 ## Step 8 - Run a Test Script
 
