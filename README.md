@@ -194,19 +194,7 @@ git version 2.55.0.windows.3
 
 ## Step 5 - Clone the Workshop Repository
 
-Open:
-
-**Windows**
-
-Command Prompt
-
-or 
-
-Git Bash
-
-**macOS/Linux**
-
-Terminal
+Open the `Command Prompt`, `Terminal`, or `Git Bash` on your compute.
 
 Navigate to the folder where you want the workshop materials stored.
 
