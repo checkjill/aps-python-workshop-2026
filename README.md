@@ -228,9 +228,11 @@ Open VS Code.
 
 File → Open Folder
 
+<img width="1919" height="1144" alt="open_folder" src="https://github.com/user-attachments/assets/cbf2e7a1-d29c-4810-abfd-87aaa0254e73" />
+
 Select the repository you just downloaded.
 
-[IMAGE]
+<img width="938" height="587" alt="repository_vscode" src="https://github.com/user-attachments/assets/c43478e8-b8a3-48c8-9e8f-c6e58b9b35fe" />
 
 ## Step 7 - Select the Python Interpreter
 
