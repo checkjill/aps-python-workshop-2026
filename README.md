@@ -252,7 +252,7 @@ Ctrl + Shift + P
 
 **Search:**
 
-Python: Select Interpreter
+`Python: Select Interpreter`
 
 <img width="1911" height="1150" alt="python_interpreter" src="https://github.com/user-attachments/assets/66178dba-e9c8-4443-89b7-85ea3622fc0b" />
 
