@@ -56,7 +56,7 @@ Screenshot showing:
 
 ## Step 2 - Install Python
 
-After installing our IDE, we will install the programming language.
+After installing our IDE (VS Code), we will install the programming language.
 
 Python is the programming language used throughout the workshop.
 
