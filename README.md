@@ -271,19 +271,7 @@ First, you need to install the Jupyter extension to run the test script in VS Co
 Create .venv...
 Select the Kernel (.venv/python 3.14...)...
 Run the script..
-
-## Step 9 - Package Installation
-
-**Run:**
-
-```
-pip install pandas numpy matplotlib
-```
-
-**Verify**
-
-
-[IMAGE]
+Package Installation...
 
 ## Final Checklist
 
