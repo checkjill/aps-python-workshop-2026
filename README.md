@@ -222,8 +222,6 @@ cd Documents
 git clone https://github.com/checkjill/aps-python-workshop-2026.git
 ```
 
-Replace the URL above with the official workshop repository.
-
 **Move into the Repository**
 
 ```
