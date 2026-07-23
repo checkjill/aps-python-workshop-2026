@@ -266,47 +266,6 @@ First, you need to install the Jupyter extension to run the test script in VS Co
 
 <img width="1919" height="1148" alt="jupyter" src="https://github.com/user-attachments/assets/c438295e-56b6-46de-8e6b-fd25d3774889" />
 
-Create a new file called:
-
-```
-test_setup.py
-```
-
-**Copy and paste:**
-
-print("Hello APS Workshop!")
-
-```
-import sys
-
-print("Python version:")
-print(sys.version)
-```
-
-Save this file.
-
-**Execute**
-
-Open a terminal inside VS Code.
-
-**Run:**
-
-```
-python test_setup.py
-```
-
-**Expected output:**
-
-```
-Hello APS Workshop!
-```
-
-```
-Python version:
-3.x.x
-```
-
-[IMAGE]
 
 ## Step 9 - Test Package Installation
 
