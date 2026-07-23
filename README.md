@@ -205,18 +205,18 @@ This way, I will store the workshop materials directly in my `Documents` folder.
 ```
 cd Documents
 ```
-Then, I clone the workshop repository for my `Documents` of my computer.
+Next, clone the workshop repository to the `Documents` folder on your computer.
 
 **Clone the repository:**
 
 ```
 git clone https://github.com/checkjill/aps-python-workshop-2026.git
 ```
-You will see something like this:
+You will see something similar to this:
 
 <img width="1108" height="617" alt="git_terminal" src="https://github.com/user-attachments/assets/1ab0f111-2c04-4221-9624-bf02bd9adc48" />
 
-Then, after this two rows you will have a cloned repository on your compute like this:
+Next, after those two processes, you will have a cloned repository on your computer, similar to this:
 
 <img width="1919" height="194" alt="git_documents" src="https://github.com/user-attachments/assets/20111326-4c4c-4443-bf4c-060de8b5762e" />
 
