@@ -276,34 +276,43 @@ First, we need to open a terminal in VS Code to perform a few tasks. To do this,
 
 <img width="1915" height="1146" alt="new_terminal" src="https://github.com/user-attachments/assets/f30017a3-7c80-4539-bc07-5ffe1fd841ff" />
 
-With the terminal created, let's activate our `.venv` environment using the terminal:
+With the terminal opened, let's create and activate our `.venv` environment using the terminal:
 
 **For Windows:**
 
+Create the `.venv` using:
+
 ```
 py -3.14 -m venv .venv
 
 ```
+
+and activate using:
+
+```
+.venv\Scripts\Activate.ps1
+```
+
 **For macOS or Linux:**
 
-```
-py -3.14 -m venv .venv
+Create the `.venv` using:
 
 ```
-After copying and pasting the code above, you need to press the Enter key on your computer, and you will see something like what is shown below—a command line starting with `(.venv)`.
+python3 -m venv .venv
+
+```
+
+and activate using:
+
+```
+source .venv/bin/activate
+```
+
+After copying and pasting the code above, you need to press the Enter key on your computer to execute the creation and activation, and you will see something like what is shown below—a command line starting with `(.venv)`.
 
 <img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
 
 Now, let's verify if the Python version in our `(.venv)` is 3.14.3. To do this, you need to copy, paste, and press the Enter key in the terminal.
-
-**For Windows:**
-
-```
-python --version
-
-```
-
-**For macOS or Linux:**
 
 ```
 python --version
