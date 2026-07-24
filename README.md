@@ -290,7 +290,7 @@ After copying and pasting the code above, you need to press the Enter key on you
 
 <img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
 
-Python version
+Now, let's verify if the Python version in our `(.venv)` is 3.14.3. To do this, you need to copy, paste, and press the Enter key in the terminal.
 
 **For Windows:**
 
@@ -301,8 +301,18 @@ python --version
 
 **For macOS or Linux:**
 
+```
+python --version
+
+```
+
+You will see something like what is shown below - `Python 3.14.3`.
+
 <img width="1918" height="1151" alt="python_version" src="https://github.com/user-attachments/assets/4fcfa0f8-6139-4787-bc1f-c4c9e1479b7f" />
 
+Alright, now that the environment is set up, we will install the package we will be using in the workshop.
+
+To do this, we can run the code below, which will allow us to install all the requirements.
 
 **Requirements:**
 
@@ -312,17 +322,50 @@ python -m pip install -r requirements.txt
 
 <img width="1915" height="1150" alt="requirements" src="https://github.com/user-attachments/assets/c9888bf2-e8d4-4318-9170-e76835a73308" />
 
-First, you need to install the Jupyter extension to run the test script in VS Code. To do this, search for `Jupyter` in the extensions section, just as you did to install the Python extension in step 3. Then, select the first option and click `Install`, as shown in the image below.
+Now we have the Python interpreter, the created environment, and the installed packages.
+
+Finally, let's run some tests to familiarize ourselves with the platform.
+
+You need to install the Jupyter extension to run the test script in VS Code. To do this, search for `Jupyter` in the extensions section, just as you did to install the Python extension in step 3. Then, select the first option and click `Install`, as shown in the image below.
 
 <img width="1919" height="1148" alt="jupyter" src="https://github.com/user-attachments/assets/c438295e-56b6-46de-8e6b-fd25d3774889" />
 
+Next, open the `installation_test.ipynb` file on the left and select the kernel, which is a Python process responsible for executing the code in this notebook.
+
+First, click on `Python 3.14.3`, as highlighted by the red box; then, select the `Select Another Kernel..` option inside the green box.
+
 <img width="1919" height="1146" alt="kernel1" src="https://github.com/user-attachments/assets/7ceb0379-1051-4d0f-997b-62c9341e2a25" />
+
+Click on `Python Environments..`
 
 <img width="1914" height="1144" alt="kernel2" src="https://github.com/user-attachments/assets/f622e2c7-5bc0-400e-aa1f-7ff995c63f5c" />
 
+Select an option similar to one of these options.
+
+- `.venv (Python 3.14.3)`
+- `.venv (3.14.3.final.0) (Python 3.14.3)`
+- - `APS Workshop (.venv`
+
 <img width="1913" height="1146" alt="kernel3" src="https://github.com/user-attachments/assets/66049e00-a922-4bf1-8abf-ffc017d0e4b2" />
 
+After that, you will see a new label on the right side, as highlighted by the red box.
+
 <img width="1911" height="1147" alt="kernel4" src="https://github.com/user-attachments/assets/623913c3-0ba5-465f-b6a9-75120974d76e" />
+
+Done.
+
+Now, we can explore the platform and understand some interesting aspects.
+
+Above, highlighted by the red box, you can see an available support option to 
+
+`Generate` - Use AI to generate or improve code.
+`+ Code` - Add a new code cell.
+`+ Markdown` - Add a new text cell for notes and instructions.
+`Run All` - Run all notebook cells from top to bottom.
+`Restart` - Restart the Python kernel and clear variables from memory.
+`Clear All Outputs` - Remove all cell outputs while keeping the code.
+`Jupyter Variables` - View variables currently stored in memory.
+`Outline` - Display a navigation panel for notebook sections.
 
 <img width="1916" height="1150" alt="bar_jupyter" src="https://github.com/user-attachments/assets/e2d6ba39-cf90-4135-96f8-74b78e80e402" />
 
@@ -338,8 +381,8 @@ Before attending the workshop, verify that all items below are complete:
 - Git Installed
 - Repository Cloned
 - Repository Opened in VS Code
-- Test Script Executed
 - Python Packages installed
+- Test Script Executed
 
 ## Do you need help?
 
