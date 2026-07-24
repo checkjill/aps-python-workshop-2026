@@ -272,7 +272,7 @@ Select the installed Python version
 
 After completing these steps, we need to test whether the program is working correctly. To do this, we need to create a `.venv` environment to run the tests.
 
-First, we need to open a terminal in VS Code to perform a few tasks. To do this, select the terminal option at the top and click `New Terminal`.
+First, we need to open a terminal in VS Code to perform a few tasks. To do this, select the `terminal` option at the top and click `New Terminal`.
 
 <img width="1915" height="1146" alt="new_terminal" src="https://github.com/user-attachments/assets/f30017a3-7c80-4539-bc07-5ffe1fd841ff" />
 
