@@ -308,7 +308,7 @@ and activate using:
 source .venv/bin/activate
 ```
 
-After copying and pasting the code above into the terminal, you need to press the Enter key on your computer to execute the creation and activation steps—copying, pasting, and pressing Enter for both processes—and you will see something similar to what is shown below: a command line starting with `(.venv)`.
+When performing the creation and activation steps—copying, pasting, and pressing Enter for both processes—you will see something similar to what is shown below: a command line starting with `(.venv)`.
 
 <img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
 
