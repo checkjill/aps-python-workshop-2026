@@ -332,7 +332,7 @@ You need to install the Jupyter extension to run the test script in VS Code. To 
 
 Next, open the `installation_test.ipynb` file on the left and select the kernel, which is a Python process responsible for executing the code in this notebook.
 
-First, click on `Python 3.14.3`, as highlighted by the red box; then, select the `Select Another Kernel..` option inside the green box.
+To do this, click on `Python 3.14.3`, as highlighted by the red box; then, select the `Select Another Kernel..` option inside the green box.
 
 <img width="1919" height="1146" alt="kernel1" src="https://github.com/user-attachments/assets/7ceb0379-1051-4d0f-997b-62c9341e2a25" />
 
