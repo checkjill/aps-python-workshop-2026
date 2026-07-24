@@ -242,6 +242,8 @@ After you select the workshop folder, you will have all the documents on your VS
 
 ## Step 7 - Select the Python Interpreter
 
+Now, we need to select the python interpreter that will support our analysis on VS Code.
+
 Inside VS Code:
 
 **Press:**
@@ -264,7 +266,13 @@ Select the installed Python version
 
 ## Step 8 - Run a Test Script
 
+After completing these steps, we need to test whether the program is working correctly. To do this, we need to create a `.venv` environment to run the tests.
+
+First, we need to open a terminal in VS Code to perform a few tasks. To do this, select the terminal option at the top and click `New Terminal`.
+
 <img width="1915" height="1146" alt="new_terminal" src="https://github.com/user-attachments/assets/f30017a3-7c80-4539-bc07-5ffe1fd841ff" />
+
+With the terminal created, let's activate our `.venv` environment using the terminal:
 
 **For Windows:**
 
@@ -273,6 +281,11 @@ py -3.14 -m venv .venv
 
 ```
 **For macOS or Linux:**
+
+```
+py -3.14 -m venv .venv
+
+```
 
 <img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
 
