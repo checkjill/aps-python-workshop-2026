@@ -310,6 +310,10 @@ First, you need to install the Jupyter extension to run the test script in VS Co
 
 <img width="1911" height="1147" alt="kernel4" src="https://github.com/user-attachments/assets/623913c3-0ba5-465f-b6a9-75120974d76e" />
 
+<img width="1916" height="1150" alt="bar_jupyter" src="https://github.com/user-attachments/assets/e2d6ba39-cf90-4135-96f8-74b78e80e402" />
+
+<img width="1916" height="1148" alt="run_jupyter" src="https://github.com/user-attachments/assets/c1ab57b7-ee64-4a2b-b27c-5037783f1171" />
+
 ## Final Checklist
 
 Before attending the workshop, verify that all items below are complete:
