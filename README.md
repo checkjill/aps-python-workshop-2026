@@ -296,6 +296,8 @@ python --version
 python -m pip install -r requirements.txt
 ```
 
+<img width="1915" height="1150" alt="requirements" src="https://github.com/user-attachments/assets/c9888bf2-e8d4-4318-9170-e76835a73308" />
+
 First, you need to install the Jupyter extension to run the test script in VS Code. To do this, search for `Jupyter` in the extensions section, just as you did to install the Python extension in step 3. Then, select the first option and click `Install`, as shown in the image below.
 
 <img width="1919" height="1148" alt="jupyter" src="https://github.com/user-attachments/assets/c438295e-56b6-46de-8e6b-fd25d3774889" />
