@@ -238,7 +238,7 @@ Select the repository you just downloaded.
 
 After you select the workshop folder, you will have all the documents on your VS Code.
 
-<img width="1918" height="1148" alt="folder_vscode" src="https://github.com/user-attachments/assets/38ece61b-c810-4bcc-b77f-b8994e6b383d" />
+<img width="1910" height="1148" alt="folder_vscode" src="https://github.com/user-attachments/assets/01906db8-5f86-4bc4-93cf-5d1884173512" />
 
 ## Step 7 - Select the Python Interpreter
 
