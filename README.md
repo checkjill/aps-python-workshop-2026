@@ -286,6 +286,7 @@ py -3.14 -m venv .venv
 py -3.14 -m venv .venv
 
 ```
+After copying and pasting the code above, you need to press the Enter key on your computer, and you will see something like what is shown below—a command line starting with `(.venv)`.
 
 <img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
 
