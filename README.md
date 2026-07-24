@@ -369,7 +369,11 @@ In the region highlighted by the red box, you can see an available support optio
 
 <img width="1916" height="1150" alt="bar_jupyter" src="https://github.com/user-attachments/assets/e2d6ba39-cf90-4135-96f8-74b78e80e402" />
 
+An example is shown below. There is a symbol highlighted by the red box that means "run"; clicking it will execute the code, and you will see the output, as highlighted by the green box.
+
 <img width="1916" height="1148" alt="run_jupyter" src="https://github.com/user-attachments/assets/c1ab57b7-ee64-4a2b-b27c-5037783f1171" />
+
+The `installation_test.ipynb` file contains further explanations that you can consult.
 
 ## Final Checklist
 
