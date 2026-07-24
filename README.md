@@ -356,7 +356,7 @@ Done.
 
 Now, we can explore the platform and understand some interesting aspects.
 
-Above, highlighted by the red box, you can see an available support option to 
+In the region highlighted by the red box, you can see an available support option.
 
 - `Generate` - Use AI to generate or improve code.
 - `+ Code` - Add a new code cell.
