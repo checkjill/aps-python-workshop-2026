@@ -344,7 +344,7 @@ Select an option similar to one of these options.
 
 - `.venv (Python 3.14.3)`
 - `.venv (3.14.3.final.0) (Python 3.14.3)`
-- - `APS Workshop (.venv`
+- `APS Workshop (.venv`
 
 <img width="1913" height="1146" alt="kernel3" src="https://github.com/user-attachments/assets/66049e00-a922-4bf1-8abf-ffc017d0e4b2" />
 
