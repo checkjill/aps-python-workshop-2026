@@ -312,9 +312,9 @@ You will see something like what is shown below - `Python 3.14.3`.
 
 Alright, now that the environment is set up, we will install the package we will be using in the workshop.
 
-To do this, we can run the code below, which will allow us to install all the requirements.
+To do this, we can run the code below, which will allow us to install all the packages listed in the `requirements.txt` file.
 
-**Requirements:**
+**Copy and paste the code below:**
 
 ```
 python -m pip install -r requirements.txt
