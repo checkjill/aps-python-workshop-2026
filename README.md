@@ -284,7 +284,6 @@ Create the `.venv` using:
 
 ```
 py -3.14 -m venv .venv
-
 ```
 
 and activate using:
@@ -299,7 +298,6 @@ Create the `.venv` using:
 
 ```
 python3 -m venv .venv
-
 ```
 
 and activate using:
@@ -316,7 +314,6 @@ Now, let's verify if the Python version in our `(.venv)` is 3.14.3. To do this, 
 
 ```
 python --version
-
 ```
 
 You will see something like what is shown below - `Python 3.14.3`.
