@@ -358,14 +358,14 @@ Now, we can explore the platform and understand some interesting aspects.
 
 Above, highlighted by the red box, you can see an available support option to 
 
-`Generate` - Use AI to generate or improve code.
-`+ Code` - Add a new code cell.
-`+ Markdown` - Add a new text cell for notes and instructions.
-`Run All` - Run all notebook cells from top to bottom.
-`Restart` - Restart the Python kernel and clear variables from memory.
-`Clear All Outputs` - Remove all cell outputs while keeping the code.
-`Jupyter Variables` - View variables currently stored in memory.
-`Outline` - Display a navigation panel for notebook sections.
+-`Generate` - Use AI to generate or improve code.
+-`+ Code` - Add a new code cell.
+-`+ Markdown` - Add a new text cell for notes and instructions.
+-`Run All` - Run all notebook cells from top to bottom.
+-`Restart` - Restart the Python kernel and clear variables from memory.
+-`Clear All Outputs` - Remove all cell outputs while keeping the code.
+-`Jupyter Variables` - View variables currently stored in memory.
+-`Outline` - Display a navigation panel for notebook sections.
 
 <img width="1916" height="1150" alt="bar_jupyter" src="https://github.com/user-attachments/assets/e2d6ba39-cf90-4135-96f8-74b78e80e402" />
 
