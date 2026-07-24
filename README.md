@@ -100,9 +100,7 @@ Windows:
 
 Open the `Commad Prompt`
 
-macOS/Linux:
-
-Open the `Terminal`
+and
 
 **Run:**
 
@@ -110,7 +108,13 @@ Open the `Terminal`
 python --version
 ```
 
-or 
+macOS/Linux:
+
+Open the `Terminal`
+
+and
+
+**Run:** 
 
 ```
 python3 --version
