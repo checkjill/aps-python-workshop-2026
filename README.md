@@ -373,7 +373,7 @@ An example is shown below. There is a symbol highlighted by the red box that mea
 
 <img width="1916" height="1148" alt="run_jupyter" src="https://github.com/user-attachments/assets/c1ab57b7-ee64-4a2b-b27c-5037783f1171" />
 
-The `installation_test.ipynb` file contains further explanations that you can consult.
+The `installation_test.ipynb` file contains further explanations that you can consult about `package importation`, `table creating`, `analysis`, and `plotting`.
 
 ## Final Checklist
 
