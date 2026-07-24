@@ -302,10 +302,13 @@ First, you need to install the Jupyter extension to run the test script in VS Co
 
 <img width="1919" height="1148" alt="jupyter" src="https://github.com/user-attachments/assets/c438295e-56b6-46de-8e6b-fd25d3774889" />
 
-Create .venv...
-Select the Kernel (.venv/python 3.14...)...
-Package Installation...
-Run the script..
+<img width="1919" height="1146" alt="kernel1" src="https://github.com/user-attachments/assets/7ceb0379-1051-4d0f-997b-62c9341e2a25" />
+
+<img width="1914" height="1144" alt="kernel2" src="https://github.com/user-attachments/assets/f622e2c7-5bc0-400e-aa1f-7ff995c63f5c" />
+
+<img width="1913" height="1146" alt="kernel3" src="https://github.com/user-attachments/assets/66049e00-a922-4bf1-8abf-ffc017d0e4b2" />
+
+<img width="1911" height="1147" alt="kernel4" src="https://github.com/user-attachments/assets/623913c3-0ba5-465f-b6a9-75120974d76e" />
 
 ## Final Checklist
 
