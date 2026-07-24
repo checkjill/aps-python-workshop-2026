@@ -256,7 +256,7 @@ Inside VS Code:
 Python: Select Interpreter
 ```
 
-<img width="1911" height="1150" alt="python_interpreter" src="https://github.com/user-attachments/assets/66178dba-e9c8-4443-89b7-85ea3622fc0b" />
+<img width="1912" height="1145" alt="python_interpreter" src="https://github.com/user-attachments/assets/abfb8001-48e5-4c95-8378-d59aca79f889" />
 
 Select the installed Python version
 
