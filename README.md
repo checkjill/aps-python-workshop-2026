@@ -260,7 +260,7 @@ Python: Select Interpreter
 
 Select the installed Python version
 
-<img width="1917" height="1148" alt="python_version_inter" src="https://github.com/user-attachments/assets/234335b8-c06c-4aee-b650-c5191817c61a" />
+<img width="1910" height="1151" alt="python_version_inter" src="https://github.com/user-attachments/assets/095cc827-dcf4-4acd-adf8-fcf22fef602a" />
 
 ## Step 8 - Run a Test Script
 
