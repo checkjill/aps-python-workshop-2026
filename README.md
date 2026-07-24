@@ -264,6 +264,32 @@ Select the installed Python version
 
 ## Step 8 - Run a Test Script
 
+<img width="1915" height="1146" alt="new_terminal" src="https://github.com/user-attachments/assets/f30017a3-7c80-4539-bc07-5ffe1fd841ff" />
+
+**For Windows:**
+
+```
+py -3.14 -m venv .venv
+
+```
+**For macOS or Linux:**
+
+<img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
+
+Python version
+
+**For Windows:**
+
+```
+python --version
+
+```
+
+**For macOS or Linux:**
+
+<img width="1918" height="1151" alt="python_version" src="https://github.com/user-attachments/assets/4fcfa0f8-6139-4787-bc1f-c4c9e1479b7f" />
+
+
 First, you need to install the Jupyter extension to run the test script in VS Code. To do this, search for `Jupyter` in the extensions section, just as you did to install the Python extension in step 3. Then, select the first option and click `Install`, as shown in the image below.
 
 <img width="1919" height="1148" alt="jupyter" src="https://github.com/user-attachments/assets/c438295e-56b6-46de-8e6b-fd25d3774889" />
