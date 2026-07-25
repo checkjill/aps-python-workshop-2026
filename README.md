@@ -4,7 +4,7 @@ Move your Python skills from theory to practice while tackling real plant pathol
 
 Presented at the 2026 National American Phytopathological Society conference meeting
 
-Authors: Jani Baruah, Jill Check, Cole Regnier, Santosh Sanjel
+Authors: Jani Baruah, Jill Check, Cole Regnier, Santosh Sanjel, Ricardo Gomes Tomáz
 
 ## APS Python Workshop - Environment Setup Guide
 
