@@ -4,7 +4,7 @@ Move your Python skills from theory to practice while tackling real plant pathol
 
 Presented at the 2026 National American Phytopathological Society conference meeting
 
-Authors: Jani Baruah, Jill Check, Cole Regnier, Santosh Sanjel
+Authors: Jani Baruah, Jill Check, Cole Regnier, Santosh Sanjel, Ricardo Gomes Tomáz
 
 ## APS Python Workshop - Environment Setup Guide
 
@@ -272,7 +272,7 @@ Select the installed Python version
 
 After completing these steps, we need to test whether the program is working correctly. To do this, we need to create a `.venv` environment to run the tests.
 
-First, we need to open a terminal in VS Code to perform a few tasks. To do this, select the terminal option at the top and click `New Terminal`.
+First, we need to open a terminal in VS Code to perform a few tasks. To do this, select the `terminal` option at the top and click `New Terminal`.
 
 <img width="1915" height="1146" alt="new_terminal" src="https://github.com/user-attachments/assets/f30017a3-7c80-4539-bc07-5ffe1fd841ff" />
 
@@ -284,7 +284,6 @@ Create the `.venv` using:
 
 ```
 py -3.14 -m venv .venv
-
 ```
 
 and activate using:
@@ -299,7 +298,6 @@ Create the `.venv` using:
 
 ```
 python3 -m venv .venv
-
 ```
 
 and activate using:
@@ -308,7 +306,7 @@ and activate using:
 source .venv/bin/activate
 ```
 
-After copying and pasting the code above into the terminal, you need to press the Enter key on your computer to execute the creation and activation steps—copying, pasting, and pressing Enter for both processes—and you will see something similar to what is shown below: a command line starting with `(.venv)`.
+When performing the creation and activation steps—copying, pasting, and pressing Enter for both processes—you will see something similar to what is shown below: a command line starting with `(.venv)`.
 
 <img width="1913" height="1149" alt="venv" src="https://github.com/user-attachments/assets/9ab2a15b-a013-44ce-bcc8-fce0d5ece1b9" />
 
@@ -316,7 +314,6 @@ Now, let's verify if the Python version in our `(.venv)` is 3.14.3. To do this, 
 
 ```
 python --version
-
 ```
 
 You will see something like what is shown below - `Python 3.14.3`.
